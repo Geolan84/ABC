@@ -1,0 +1,6 @@
+1 false birdy 10
+2 1 littleFishy 5
+3 2 berst 500
+2 1 fishy2 200
+2 2 largeFishy 200
+3 1 bersty 5000

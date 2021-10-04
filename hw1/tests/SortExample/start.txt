@@ -1,0 +1,102 @@
+Filled container:
+Container contains 100 elements.
+1: Name = Beasty1. Weight = 14 grams. Quotient = 47.5 It is a beast.It is domestic.
+2: Name = Beasty13. Weight = 16 grams. Quotient = 44.75 It is a beast.It is wild.
+3: Name = Fishy10. Weight = 9 grams. Quotient = 68 It is a fish. It lives in lake.
+4: Name = Fishy8. Weight = 5 grams. Quotient = 114.2 It is a fish. It lives in lake.
+5: Name = Birdy4. Weight = 7 grams. Quotient = 79.7143 It is a bird. Can flight? = no
+6: Name = Birdy6. Weight = 19 grams. Quotient = 29.4737 It is a bird. Can flight? = yes
+7: Name = Beasty15. Weight = 16 grams. Quotient = 44.875 It is a beast.It is domestic.
+8: Name = Fishy14. Weight = 11 grams. Quotient = 56 It is a fish. It lives in river.
+9: Name = Birdy17. Weight = 14 grams. Quotient = 43.5714 It is a bird. Can flight? = yes
+10: Name = Beasty1. Weight = 1 grams. Quotient = 665 It is a beast.It is wild.
+11: Name = Birdy9. Weight = 5 grams. Quotient = 112.6 It is a bird. Can flight? = no
+12: Name = Beasty10. Weight = 17 grams. Quotient = 41.9412 It is a beast.It is garden.
+13: Name = Birdy4. Weight = 17 grams. Quotient = 32.8235 It is a bird. Can flight? = yes
+14: Name = Beasty16. Weight = 8 grams. Quotient = 89.875 It is a beast.It is wild.
+15: Name = Beasty3. Weight = 18 grams. Quotient = 37.0556 It is a beast.It is garden.
+16: Name = Beasty20. Weight = 7 grams. Quotient = 102 It is a beast.It is wild.
+17: Name = Fishy20. Weight = 8 grams. Quotient = 76.625 It is a fish. It lives in lake.
+18: Name = Fishy8. Weight = 4 grams. Quotient = 142.75 It is a fish. It lives in lake.
+19: Name = Beasty9. Weight = 15 grams. Quotient = 44.8667 It is a beast.It is garden.
+20: Name = Beasty3. Weight = 16 grams. Quotient = 41.6875 It is a beast.It is garden.
+21: Name = Beasty12. Weight = 7 grams. Quotient = 102.143 It is a beast.It is garden.
+22: Name = Beasty14. Weight = 20 grams. Quotient = 35.85 It is a beast.It is domestic.
+23: Name = Fishy9. Weight = 15 grams. Quotient = 38.1333 It is a fish. It lives in lake.
+24: Name = Birdy2. Weight = 2 grams. Quotient = 278 It is a bird. Can flight? = no
+25: Name = Beasty9. Weight = 4 grams. Quotient = 168.25 It is a beast.It is domestic.
+26: Name = Beasty7. Weight = 10 grams. Quotient = 67.1 It is a beast.It is garden.
+27: Name = Fishy4. Weight = 10 grams. Quotient = 56.7 It is a fish. It lives in lake.
+28: Name = Fishy5. Weight = 10 grams. Quotient = 56.8 It is a fish. It lives in river.
+29: Name = Birdy8. Weight = 2 grams. Quotient = 281 It is a bird. Can flight? = no
+30: Name = Fishy13. Weight = 11 grams. Quotient = 55.9091 It is a fish. It lives in lake.
+31: Name = Fishy5. Weight = 16 grams. Quotient = 35.5 It is a fish. It lives in lake.
+32: Name = Fishy17. Weight = 7 grams. Quotient = 88.4286 It is a fish. It lives in river.
+33: Name = Beasty10. Weight = 19 grams. Quotient = 37.5263 It is a beast.It is wild.
+34: Name = Fishy8. Weight = 12 grams. Quotient = 47.5833 It is a fish. It lives in river.
+35: Name = Beasty13. Weight = 11 grams. Quotient = 65.0909 It is a beast.It is garden.
+36: Name = Beasty12. Weight = 15 grams. Quotient = 47.6667 It is a beast.It is domestic.
+37: Name = Birdy8. Weight = 14 grams. Quotient = 40.1429 It is a bird. Can flight? = yes
+38: Name = Beasty4. Weight = 18 grams. Quotient = 37.1111 It is a beast.It is garden.
+39: Name = Fishy13. Weight = 16 grams. Quotient = 38.4375 It is a fish. It lives in lake.
+40: Name = Birdy2. Weight = 4 grams. Quotient = 139 It is a bird. Can flight? = no
+41: Name = Fishy2. Weight = 7 grams. Quotient = 80.7143 It is a fish. It lives in lake.
+42: Name = Birdy10. Weight = 14 grams. Quotient = 43.0714 It is a bird. Can flight? = yes
+43: Name = Birdy4. Weight = 3 grams. Quotient = 186 It is a bird. Can flight? = no
+44: Name = Beasty9. Weight = 6 grams. Quotient = 112.167 It is a beast.It is wild.
+45: Name = Fishy19. Weight = 15 grams. Quotient = 41.4 It is a fish. It lives in lake.
+46: Name = Fishy13. Weight = 12 grams. Quotient = 51.25 It is a fish. It lives in lake.
+47: Name = Fishy7. Weight = 16 grams. Quotient = 35.625 It is a fish. It lives in lake.
+48: Name = Birdy20. Weight = 8 grams. Quotient = 75.5 It is a bird. Can flight? = no
+49: Name = Fishy15. Weight = 2 grams. Quotient = 308.5 It is a fish. It lives in lake.
+50: Name = Fishy8. Weight = 8 grams. Quotient = 71.375 It is a fish. It lives in lake.
+51: Name = Beasty10. Weight = 15 grams. Quotient = 47.5333 It is a beast.It is domestic.
+52: Name = Beasty20. Weight = 14 grams. Quotient = 51 It is a beast.It is garden.
+53: Name = Fishy9. Weight = 6 grams. Quotient = 95.3333 It is a fish. It lives in lake.
+54: Name = Beasty9. Weight = 3 grams. Quotient = 224.333 It is a beast.It is domestic.
+55: Name = Fishy18. Weight = 15 grams. Quotient = 41.3333 It is a fish. It lives in river.
+56: Name = Beasty2. Weight = 9 grams. Quotient = 74 It is a beast.It is garden.
+57: Name = Birdy3. Weight = 7 grams. Quotient = 79.5714 It is a bird. Can flight? = no
+58: Name = Beasty6. Weight = 17 grams. Quotient = 39.4118 It is a beast.It is domestic.
+59: Name = Fishy3. Weight = 13 grams. Quotient = 43.5385 It is a fish. It lives in lake.
+60: Name = Fishy19. Weight = 4 grams. Quotient = 155.25 It is a fish. It lives in river.
+61: Name = Fishy1. Weight = 1 grams. Quotient = 564 It is a fish. It lives in lake.
+62: Name = Beasty3. Weight = 7 grams. Quotient = 95.2857 It is a beast.It is garden.
+63: Name = Beasty13. Weight = 2 grams. Quotient = 358 It is a beast.It is garden.
+64: Name = Birdy3. Weight = 6 grams. Quotient = 92.8333 It is a bird. Can flight? = yes
+65: Name = Birdy4. Weight = 5 grams. Quotient = 111.6 It is a bird. Can flight? = yes
+66: Name = Fishy1. Weight = 9 grams. Quotient = 62.6667 It is a fish. It lives in river.
+67: Name = Beasty14. Weight = 13 grams. Quotient = 55.1538 It is a beast.It is wild.
+68: Name = Fishy8. Weight = 6 grams. Quotient = 95.1667 It is a fish. It lives in river.
+69: Name = Birdy6. Weight = 12 grams. Quotient = 46.6667 It is a bird. Can flight? = yes
+70: Name = Fishy10. Weight = 5 grams. Quotient = 122.4 It is a fish. It lives in river.
+71: Name = Beasty19. Weight = 11 grams. Quotient = 65.6364 It is a beast.It is garden.
+72: Name = Fishy8. Weight = 2 grams. Quotient = 285.5 It is a fish. It lives in river.
+73: Name = Fishy7. Weight = 2 grams. Quotient = 285 It is a fish. It lives in lake.
+74: Name = Fishy2. Weight = 7 grams. Quotient = 80.7143 It is a fish. It lives in lake.
+75: Name = Birdy12. Weight = 15 grams. Quotient = 40.3333 It is a bird. Can flight? = yes
+76: Name = Birdy20. Weight = 19 grams. Quotient = 31.7895 It is a bird. Can flight? = yes
+77: Name = Beasty10. Weight = 20 grams. Quotient = 35.65 It is a beast.It is domestic.
+78: Name = Fishy17. Weight = 15 grams. Quotient = 41.2667 It is a fish. It lives in lake.
+79: Name = Beasty5. Weight = 14 grams. Quotient = 47.7857 It is a beast.It is garden.
+80: Name = Birdy7. Weight = 3 grams. Quotient = 187 It is a bird. Can flight? = yes
+81: Name = Beasty16. Weight = 18 grams. Quotient = 39.9444 It is a beast.It is domestic.
+82: Name = Fishy17. Weight = 9 grams. Quotient = 68.7778 It is a fish. It lives in river.
+83: Name = Fishy4. Weight = 9 grams. Quotient = 63 It is a fish. It lives in lake.
+84: Name = Birdy8. Weight = 1 grams. Quotient = 562 It is a bird. Can flight? = yes
+85: Name = Fishy12. Weight = 15 grams. Quotient = 40.9333 It is a fish. It lives in lake.
+86: Name = Fishy9. Weight = 5 grams. Quotient = 114.4 It is a fish. It lives in river.
+87: Name = Birdy10. Weight = 12 grams. Quotient = 50.25 It is a bird. Can flight? = no
+88: Name = Fishy6. Weight = 16 grams. Quotient = 35.5625 It is a fish. It lives in lake.
+89: Name = Birdy6. Weight = 16 grams. Quotient = 35 It is a bird. Can flight? = yes
+90: Name = Birdy5. Weight = 1 grams. Quotient = 559 It is a bird. Can flight? = no
+91: Name = Fishy1. Weight = 10 grams. Quotient = 56.4 It is a fish. It lives in lake.
+92: Name = Beasty10. Weight = 17 grams. Quotient = 41.9412 It is a beast.It is domestic.
+93: Name = Birdy4. Weight = 8 grams. Quotient = 69.75 It is a bird. Can flight? = no
+94: Name = Fishy5. Weight = 15 grams. Quotient = 37.8667 It is a fish. It lives in river.
+95: Name = Beasty6. Weight = 2 grams. Quotient = 335 It is a beast.It is wild.
+96: Name = Fishy18. Weight = 15 grams. Quotient = 41.3333 It is a fish. It lives in lake.
+97: Name = Birdy10. Weight = 13 grams. Quotient = 46.3846 It is a bird. Can flight? = yes
+98: Name = Birdy5. Weight = 16 grams. Quotient = 34.9375 It is a bird. Can flight? = no
+99: Name = Beasty5. Weight = 3 grams. Quotient = 223 It is a beast.It is wild.
+100: Name = Fishy19. Weight = 5 grams. Quotient = 124.2 It is a fish. It lives in lake.
